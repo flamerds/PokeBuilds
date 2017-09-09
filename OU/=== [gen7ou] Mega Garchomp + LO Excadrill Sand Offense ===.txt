@@ -43,3 +43,11 @@ Modest Nature
 - Giga Drain  
 - Automotize  
 
+Toxapex @ Shed Shell  
+Ability: Regenerator  
+EVs: 248 HP / 192 Def / 68 SpD
+Bold Nature  
+- Scald  
+- Toxic Spikes  
+- Haze  
+- Recover  
