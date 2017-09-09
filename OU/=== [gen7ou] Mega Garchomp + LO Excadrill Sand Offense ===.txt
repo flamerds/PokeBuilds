@@ -1,0 +1,45 @@
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Earthquake  
+- Fire Fang  
+- Outrage  
+- Swords Dance  
+
+Tyranitar @ Smooth Rock  
+Ability: Sand Stream  
+EVs: 248 HP / 80 Def / 180 SpD
+Sassy Nature  
+- Stone Edge  
+- Pursuit  
+- Ice Beam  
+- Stealth Rock
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Earthquake  
+- Rapid Spin  
+- Rock Slide  
+- Iron Head 
+ 
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Earthquake  
+- Hidden Power [Ice]  
+
+Celesteela @ Flyinium Z  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Modest Nature  
+- Air Slash  
+- Flamethrower  
+- Giga Drain  
+- Automotize  
+
