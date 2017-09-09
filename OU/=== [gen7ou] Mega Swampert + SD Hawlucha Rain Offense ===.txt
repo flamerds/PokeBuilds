@@ -1,0 +1,58 @@
+=== [gen7ou] Mega Swampert + SD Hawlucha Rain Offense ===
+
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+EVs: 248 HP / 32 Def / 228 SpD
+Bold Nature  
+IVs: 6 Spe
+- Defog  
+- Roost  
+- Scald  
+- U-turn  
+
+Tapu Koko @ Tapunium Z  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+- Thunder  
+- Nature's Madness  
+- Taunt  
+- U-turn  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 156 HP / 224 Atk / 4 Def / 124 Spe
+Adamant Nature  
+- Drain Punch  
+- Swords Dance  
+- High Jump Kick  
+- Acrobatics  
+
+Swampert-Mega @ Swampertite  
+Ability: Damp  
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Ice Punch  
+- Stealth Rock  
+
+Kingdra @ Choice Specs  
+Ability: Swift Swim  
+EVs: 4 Def / 252 SpA / 252 Spe
+Modest Nature  
+IVs: 0 Atk
+- Surf  
+- Draco Meteor  
+- Ice Beam  
+- Hidden Power [Electric]  
+
+Ferrothorn @ Chople Berry  
+Ability: Iron Barbs  
+EVs: 252 HP / 120 Def / 136 SpD
+Relaxed Nature  
+IVs: 0 Spe
+- Gyro Ball  
+- Power Whip  
+- Knock Off  
+- Spikes
