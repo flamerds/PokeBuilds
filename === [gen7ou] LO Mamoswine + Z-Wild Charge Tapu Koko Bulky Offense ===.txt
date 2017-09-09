@@ -1,0 +1,55 @@
+Mamoswine @ Life Orb  
+Ability: Thick Fat  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Icicle Crash  
+- Earthquake  
+- Stealth Rock  
+- Ice Shard
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature  
+- Wild Charge  
+- Hidden Power [Ice]  
+- U-turn  
+- Taunt 
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Hidden Power [Fire]  
+- Earthquake
+
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 64 Atk / 124 Def / 16 SpD / 56 Spe
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Swords Dance  
+- Roost
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 212 HP / 44 Def / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Magma Storm  
+- Earth Power  
+- Toxic  
+- Substitute 
+
+ Latios @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Draco Meteor  
+- Psyshock  
+- Trick  
+- Defog
