@@ -1,0 +1,55 @@
+Shuckle @ Mental Herb  
+Ability: Sturdy  
+EVs: 252 HP / 244 Def / 12 Spe
+Bold Nature  
+IVs: 0 Atk
+- Stealth Rock  
+- Sticky Web  
+- Encore  
+- Final Gambit  
+
+Pinsir-Mega @ Pinsirite  
+Ability: Aerilate  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Swords Dance  
+- Earthquake  
+- Return  
+- Quick Attack  
+
+Bisharp @ Life Orb  
+Ability: Defiant  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Swords Dance  
+- Knock Off  
+- Iron Head  
+- Sucker Punch  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 30 Atk
+- Thunderbolt  
+- Calm Mind  
+- Hidden Power [Ice]  
+- U-turn  
+
+Zygarde @ Mago Berry  
+Ability: Aura Break  
+EVs: 252 HP / 196 Atk / 60 Spe
+Adamant Nature  
+- Dragon Dance  
+- Thousand Arrows  
+- Substitute  
+- Extreme Speed  
+
+Mimikyu-Busted @ Life Orb  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Shadow Sneak  
+- Shadow Claw
