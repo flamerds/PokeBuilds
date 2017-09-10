@@ -1,58 +1,56 @@
-=== [gen7ou] Mega Diancie + Z-Wild Charge Tapu Koko Balance ===
+Mantine (F) @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 180 Def / 80 SpD
+Calm Nature  
+IVs: 0 Atk
+- Scald  
+- Defog  
+- Roost  
+- Haze  
 
-Diancie-Mega @ Diancite  
-Ability: Clear Body  
-EVs: 4 Atk / 252 SpA / 252 Spe
-Naive Nature  
-- Moonblast  
-- Diamond Storm  
-- Nature Power  
+Hippowdon @ Leftovers  
+Ability: Sand Stream  
+EVs: 252 HP / 224 Def / 32 SpD
+Impish Nature  
+- Toxic  
+- Stealth Rock  
+- Earthquake  
+- Slack Off  
+
+Magearna @ Shuca Berry  
+Ability: Soul-Heart  
+EVs: 248 HP / 124 Def / 136 SpD
+Calm Nature  
+IVs: 0 Atk / 6 Spe
 - Hidden Power [Fire]  
+- Fleur Cannon  
+- Ice Beam  
+- Volt Switch  
 
 Tapu Koko @ Electrium Z  
 Ability: Electric Surge  
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
 - Wild Charge  
-- Hidden Power [Ice]  
-- Roost  
 - U-turn  
+- Roost  
+- Taunt  
 
 Ferrothorn @ Leftovers  
 Ability: Iron Barbs  
 EVs: 252 HP / 88 Def / 168 SpD
-Impish Nature  
+Relaxed Nature  
+IVs: 0 Spe
 - Spikes  
+- Gyro Ball  
 - Leech Seed  
-- Protect  
-- Power Whip  
-
-Toxapex @ Black Sludge  
-Ability: Regenerator  
-EVs: 248 HP / 252 SpD / 8 Spe
-Calm Nature  
-IVs: 0 Atk
-- Toxic Spikes  
-- Scald  
-- Recover  
-- Haze  
-
-Landorus-Therian @ Choice Scarf  
-Ability: Intimidate  
-EVs: 252 Atk / 4 SpA / 252 Spe
-Naive Nature  
-- Earthquake  
 - Knock Off  
-- Hidden Power [Ice]  
-- U-turn  
 
-Heatran @ Leftovers  
-Ability: Flash Fire  
-EVs: 252 SpA / 4 SpD / 252 Spe
-Timid Nature  
-IVs: 0 Atk
-- Stealth Rock  
-- Magma Storm  
+Diancie-Mega @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature  
+- Moonblast  
+- Diamond Storm  
 - Earth Power  
-- Taunt  
-
+- Hidden Power [Ice]
