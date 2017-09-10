@@ -1,0 +1,54 @@
+Diancie-Mega @ Diancite  
+Ability: Magic Bounce  
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature  
+- Diamond Storm  
+- Moonblast  
+- Hidden Power [Fire]  
+- Stealth Rock  
+
+Tapu Bulu @ Life Orb  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Substitute  
+- Swords Dance  
+- Horn Leech  
+- Superpower  
+
+Infernape @ Choice Scarf  
+Ability: Blaze  
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature  
+- Flare Blitz  
+- Close Combat  
+- Stone Edge  
+- U-turn  
+
+Gastrodon @ Leftovers  
+Ability: Storm Drain  
+EVs: 252 HP / 4 Def / 252 SpD
+Sassy Nature  
+- Scald  
+- Earthquake  
+- Recover  
+- Toxic  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 200 Def / 60 SpA
+Relaxed Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Fire Blast  
+
+Latios @ Psychium Z  
+Ability: Levitate  
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Defog  
+- Draco Meteor  
+- Psychic  
+- Roost
