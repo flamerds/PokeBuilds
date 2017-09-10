@@ -1,0 +1,58 @@
+=== [gen7ou] Mega Venusaur + Banded Zygarde Balance ===
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 Spe
+Bold Nature  
+- Knock Off  
+- Stealth Rock  
+- Moonblast  
+- Soft-Boiled  
+
+Zygarde @ Choice Band  
+Ability: Aura Break  
+EVs: 252 Atk / 4 Def / 252 Spe
+Adamant Nature  
+- Thousand Arrows  
+- Outrage  
+- Earthquake  
+- Extreme Speed  
+
+Mew @ Leftovers  
+Ability: Synchronize  
+EVs: 28 HP / 244 Def / 12 SpA / 224 Spe
+Timid Nature  
+IVs: 0 Atk
+- Roost  
+- Psychic  
+- Will-O-Wisp  
+- Volt Switch  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 124 Def / 132 SpD
+Impish Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Greninja @ Choice Scarf  
+Ability: Protean  
+EVs: 252 Atk / 4 SpA / 252 Spe
+Hasty Nature  
+- Spikes  
+- Hydro Pump  
+- Rock Slide  
+- U-turn  
+
+Venusaur-Mega @ Venusaurite  
+Ability: Chlorophyll  
+EVs: 248 HP / 140 Def / 104 SpD / 16 Spe
+Bold Nature  
+IVs: 0 Atk
+- Hidden Power [Fire]  
+- Sludge Bomb  
+- Leech Seed  
+- Synthesis  
+

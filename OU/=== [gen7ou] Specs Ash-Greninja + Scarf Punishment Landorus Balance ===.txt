@@ -1,0 +1,58 @@
+=== [gen7ou] Specs Ash-Greninja + Scarf Punishment Landorus Balance ===
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 244 Def / 12 SpD
+Relaxed Nature  
+- Stealth Rock  
+- Moonblast  
+- Soft-Boiled  
+- Knock Off  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD
+Calm Nature  
+IVs: 0 Atk
+- Infestation  
+- Toxic  
+- Recover  
+- Toxic Spikes  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 232 Def / 24 SpD / 4 Spe
+Relaxed Nature  
+- Heavy Slam  
+- Flamethrower  
+- Leech Seed  
+- Protect  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- U-turn  
+- Punishment  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 248 HP / 8 SpA / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Magma Storm  
+- Earth Power  
+- Taunt  
+- Toxic  
+
