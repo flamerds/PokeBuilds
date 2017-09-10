@@ -1,0 +1,56 @@
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Calm Mind  
+- Stored Power  
+- Substitute  
+- Recover  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD
+Impish Nature  
+- Spikes  
+- Leech Seed  
+- Power Whip  
+- Knock Off  
+
+Greninja-Ash @ Waterium Z  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Landorus-Therian @ Leftovers  
+Ability: Intimidate  
+EVs: 252 HP / 168 Def / 88 Spe
+Impish Nature  
+- Stealth Rock  
+- Earthquake  
+- Hidden Power [Ice]  
+- Protect  
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature  
+IVs: 0 Atk
+- Calm Mind  
+- Moonblast  
+- Soft-Boiled  
+- Flamethrower  
+
+Nihilego @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Power Gem  
+- Sludge Wave  
+- Thunder Wave  
+- Toxic Spikes
