@@ -1,0 +1,58 @@
+=== [gen7ou] Mega Scizor + Specs Tapu Koko Bulky Offense ===
+
+Landorus-Therian @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature  
+- Stealth Rock  
+- Earthquake  
+- Fly  
+- Swords Dance  
+
+Tangrowth @ Assault Vest  
+Ability: Regenerator  
+EVs: 248 HP / 4 Def / 252 SpD / 4 Spe
+Sassy Nature  
+- Giga Drain  
+- Knock Off  
+- Hidden Power [Fire]  
+- Earthquake  
+
+Tapu Koko @ Choice Specs  
+Ability: Electric Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Hidden Power [Ice]  
+- Volt Switch  
+- Thunderbolt  
+- Dazzling Gleam  
+
+Scizor-Mega @ Scizorite  
+Ability: Light Metal  
+EVs: 248 HP / 64 Atk / 124 Def / 16 SpD / 56 Spe
+Adamant Nature  
+- U-turn  
+- Bullet Punch  
+- Swords Dance  
+- Roost  
+
+Kyurem-Black @ Life Orb  
+Ability: Teravolt  
+EVs: 4 Atk / 252 SpA / 252 Spe
+Mild Nature  
+- Ice Beam  
+- Fusion Bolt  
+- Earth Power  
+- Roost  
+
+Latios @ Choice Scarf  
+Ability: Levitate  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Psyshock  
+- Draco Meteor  
+- Trick  
+- Defog  
+
