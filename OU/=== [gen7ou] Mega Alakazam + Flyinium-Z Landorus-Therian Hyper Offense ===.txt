@@ -1,0 +1,56 @@
+Landorus-Therian @ Flyinium Z  
+Ability: Intimidate  
+EVs: 252 Atk / 4 Def / 252 Spe
+Jolly Nature  
+- Earthquake  
+- Fly  
+- Smack Down  
+- Stealth Rock  
+
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Psychic  
+- Focus Blast  
+- Shadow Ball  
+- Calm Mind  
+
+Tapu Lele @ Twisted Spoon  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Psyshock  
+- Moonblast  
+- Taunt  
+- Focus Blast  
+
+Magnezone @ Assault Vest  
+Ability: Magnet Pull  
+EVs: 140 HP / 192 SpA / 176 Spe
+Modest Nature  
+IVs: 0 Atk
+- Volt Switch  
+- Hidden Power [Fire]  
+- Thunderbolt  
+- Flash Cannon  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- U-turn  
+
+Tapu Koko @ Choice Scarf  
+Ability: Electric Surge  
+EVs: 4 Atk / 252 SpA / 252 Spe
+Rash Nature  
+- U-turn  
+- Thunderbolt  
+- Brave Bird  
+- Hidden Power [Ice]
