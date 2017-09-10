@@ -1,0 +1,55 @@
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 252 Def / 4 SpA
+Bold Nature  
+- Stealth Rock  
+- Moonblast  
+- Knock Off  
+- Soft-Boiled  
+
+Celesteela @ Leftovers  
+Ability: Beast Boost  
+EVs: 248 HP / 216 Def / 44 SpD
+Relaxed Nature  
+- Leech Seed  
+- Protect  
+- Heavy Slam  
+- Flamethrower  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 8 Def / 252 SpD
+Calm Nature  
+IVs: 0 Atk
+- Toxic  
+- Infestation  
+- Toxic Spikes  
+- Recover  
+
+Latias-Mega @ Latiasite  
+Ability: Levitate  
+EVs: 248 HP / 8 Def / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Calm Mind  
+- Stored Power  
+- Thunderbolt  
+- Recover  
+
+Tapu Bulu @ Grassium Z  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Swords Dance  
+- Wood Hammer  
+- Horn Leech  
+- Superpower  
+
+Zygarde @ Leftovers  
+Ability: Aura Break  
+EVs: 160 HP / 108 Atk / 28 SpD / 212 Spe
+Adamant Nature  
+- Substitute  
+- Dragon Dance  
+- Thousand Arrows  
+- Protect  
