@@ -1,0 +1,57 @@
+Tapu Lele @ Fightinium Z  
+Ability: Psychic Surge  
+EVs: 8 Def / 248 SpA / 252 Spe
+Modest Nature  
+IVs: 0 Atk
+- Taunt  
+- Psyshock  
+- Moonblast  
+- Focus Blast  
+
+Alakazam-Mega @ Alakazite  
+Ability: Magic Guard  
+EVs: 4 Def / 252 SpA / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Psychic  
+- Psyshock  
+- Dazzling Gleam  
+- Hidden Power [Fire]  
+
+Gengar @ Choice Scarf  
+Ability: Cursed Body  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 1 Atk
+- Shadow Ball  
+- Sludge Wave  
+- Thunderbolt  
+- Hidden Power [Ice]  
+
+Tyranitar @ Choice Band  
+Ability: Sand Stream  
+EVs: 80 HP / 252 Atk / 176 Spe
+Adamant Nature  
+- Pursuit  
+- Crunch  
+- Stone Edge  
+- Earthquake  
+
+Ferrothorn @ Chople Berry  
+Ability: Iron Barbs  
+EVs: 248 HP / 128 Def / 132 SpD
+Relaxed Nature  
+IVs: 0 Spe
+- Stealth Rock  
+- Spikes  
+- Leech Seed  
+- Gyro Ball  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 8 HP / 252 Atk / 248 Spe
+Jolly Nature  
+- Earthquake  
+- Stone Edge  
+- Explosion  
+- U-turn  
