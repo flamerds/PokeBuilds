@@ -1,0 +1,57 @@
+=== [gen7ou] Mega Diancie + SD Alolan-Marowak Bulky Offense ===
+
+Diancie-Mega @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature  
+- Moonblast  
+- Diamond Storm  
+- Earth Power  
+- Nature Power  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpA / 252 Spe
+Jolly Nature  
+- Wild Charge  
+- Hidden Power [Ice]  
+- Taunt  
+- U-turn  
+
+Mantine @ Leftovers  
+Ability: Water Absorb  
+EVs: 248 HP / 252 Def / 8 SpD
+Calm Nature  
+IVs: 0 Atk
+- Scald  
+- Roost  
+- Defog  
+- Toxic  
+
+Marowak-Alola @ Thick Club  
+Ability: Lightning Rod  
+EVs: 48 HP / 252 Atk / 208 Spe
+Adamant Nature  
+- Swords Dance  
+- Fire Punch  
+- Shadow Bone  
+- Bonemerang  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 248 HP / 88 Def / 168 SpD / 4 Spe
+Impish Nature  
+- Stealth Rock  
+- Leech Seed  
+- Knock Off  
+- Power Whip  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature  
+- Earthquake  
+- Hidden Power [Ice]  
+- Stone Edge  
+- U-turn  
+
