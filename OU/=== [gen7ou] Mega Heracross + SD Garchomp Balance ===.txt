@@ -1,0 +1,58 @@
+=== [gen7ou] Mega Heracross + SD Garchomp Balance ===
+
+Clefable @ Leftovers  
+Ability: Magic Guard  
+EVs: 252 HP / 244 Def / 12 SpD
+Bold Nature  
+IVs: 0 Atk
+- Stealth Rock  
+- Moonblast  
+- Soft-Boiled  
+- Toxic  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD
+Impish Nature  
+- Spikes  
+- Leech Seed  
+- Knock Off  
+- Power Whip  
+
+Heracross-Mega @ Heracronite  
+Ability: Moxie  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Close Combat  
+- Pin Missile  
+- Rock Blast  
+- Swords Dance  
+
+Greninja (M) @ Choice Scarf  
+Ability: Protean  
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature  
+- Hydro Pump  
+- Ice Beam  
+- Rock Slide  
+- U-turn  
+
+Garchomp @ Dragonium Z  
+Ability: Rough Skin  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Outrage  
+- Earthquake  
+- Fire Fang  
+- Swords Dance  
+
+Zapdos @ Leftovers  
+Ability: Pressure  
+EVs: 216 HP / 8 Def / 32 SpA / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Discharge  
+- Hidden Power [Ice]  
+- Roost  
+- Defog  
+

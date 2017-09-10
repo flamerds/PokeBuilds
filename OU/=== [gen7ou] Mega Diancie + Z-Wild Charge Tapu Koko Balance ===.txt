@@ -1,0 +1,58 @@
+=== [gen7ou] Mega Diancie + Z-Wild Charge Tapu Koko Balance ===
+
+Diancie-Mega @ Diancite  
+Ability: Clear Body  
+EVs: 4 Atk / 252 SpA / 252 Spe
+Naive Nature  
+- Moonblast  
+- Diamond Storm  
+- Nature Power  
+- Hidden Power [Fire]  
+
+Tapu Koko @ Electrium Z  
+Ability: Electric Surge  
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature  
+- Wild Charge  
+- Hidden Power [Ice]  
+- Roost  
+- U-turn  
+
+Ferrothorn @ Leftovers  
+Ability: Iron Barbs  
+EVs: 252 HP / 88 Def / 168 SpD
+Impish Nature  
+- Spikes  
+- Leech Seed  
+- Protect  
+- Power Whip  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 248 HP / 252 SpD / 8 Spe
+Calm Nature  
+IVs: 0 Atk
+- Toxic Spikes  
+- Scald  
+- Recover  
+- Haze  
+
+Landorus-Therian @ Choice Scarf  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpA / 252 Spe
+Naive Nature  
+- Earthquake  
+- Knock Off  
+- Hidden Power [Ice]  
+- U-turn  
+
+Heatran @ Leftovers  
+Ability: Flash Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Stealth Rock  
+- Magma Storm  
+- Earth Power  
+- Taunt  
+
