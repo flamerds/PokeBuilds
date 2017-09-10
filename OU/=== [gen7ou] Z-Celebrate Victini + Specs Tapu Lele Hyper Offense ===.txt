@@ -1,0 +1,55 @@
+Excadrill @ Focus Sash  
+Ability: Mold Breaker  
+EVs: 252 Atk / 252 Spe
+Jolly Nature  
+- Stealth Rock  
+- Toxic  
+- Earthquake  
+- Rapid Spin  
+
+Victini @ Normalium Z  
+Ability: Victory Star  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Celebrate  
+- Searing Shot  
+- Stored Power  
+- Focus Blast  
+
+Tapu Lele @ Choice Specs  
+Ability: Psychic Surge  
+EVs: 252 SpA / 4 SpD / 252 Spe
+Timid Nature  
+IVs: 0 Atk
+- Psychic  
+- Moonblast  
+- Hidden Power [Fire]  
+- Psyshock  
+
+Kartana @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Leaf Blade  
+- Smart Strike  
+- Sacred Sword  
+- Return  
+
+Gyarados-Mega @ Gyaradosite  
+Ability: Intimidate  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature  
+- Dragon Dance  
+- Crunch  
+- Waterfall  
+- Taunt  
+
+Mimikyu @ Life Orb  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe
+Adamant Nature  
+- Swords Dance  
+- Play Rough  
+- Shadow Claw  
+- Shadow Sneak
